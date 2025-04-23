@@ -7,52 +7,52 @@
     "owner-verification":"shoroking38@gmail.com",
   
       "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Prince~scl/fi/w3x8owkm3h8065veofeq1/fPnKEBrlWZ.json?rlkey=aj4ba51w6won392f8e1uu4zkz&dl=0
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~scl/fi/w3x8owkm3h8065veofeq1/fPnKEBrlWZ.json?rlkey=aj4ba51w6won392f8e1uu4zkz&dl=0"
     },
-    "BOT_NAME": {
+    "BOT_NAME": {PRINCE-BOT 
       "description": "put your BOT a name",
       "required": true,
       "value": "PRINCE-BOT"
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {2347059083625
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "6281220527432,Prince♥️The Developer"
+      "value": "2347059083625,Prince♥️The Developer"
     },
-    "owner_react_emojie": {
+    "owner_react_emojie": {false 
       "description": "put one emojie for owner reacts",
       "required": false,
       "value": "🤍"
     },
-    "MODE": {
+    "MODE": {private
       "description": "choose bot mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
-    "PREFIX": {
+    "PREFIX": {?
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "" 
+      "value": "?" 
     },
-    "antidelete": {
+    "antidelete": {false 
       "description": "Set 'private' to forward deleted messages only from private chats, 'all' to forward from both private and group chats, or 'false' to disable this feature.",
       "required": false,
       "value": "all"
     },
-    "DATABASE_URL": {
+    "DATABASE_URL": {postgresql://atlas_9crc_user:9qOGB9PrBzkVN2DVqXPP9FPf4V5zJktS@dpg-cvlt1sjipnbc73anueb0-a.oregon-postgres.render.com/atlas_9crc
       "description": "put mongodb or postgres or princedb database url for bots better performance",
       "required": false,
       "value": ""
     },
-    "ANTI_LINK": {
+    "ANTI_LINK": {true
       "description": "it will dlt links and kick user",
       "required": false,
       "value": "true"
     },
-    "AutoReaction": {
+    "AutoReaction": {false 
       "description": "make it true to react on chats",
       "required": false,
       "value": "false"
@@ -62,42 +62,42 @@
       "required": false,
       "value": "💛,🤍,💗,♥️,💞"
     },
-    "STATUSVIEW": {
+    "STATUSVIEW": {false 
       "description": "make it true to auto view status and likes",
       "required": false,
       "value": "true"
     },
-    "StatusEmojies": {
+    "StatusEmojies": {false 
       "description": "Add your favorites emojies for status likes",
       "required": false,
       "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸"
     },
-    "STATUS_MSG": {
+    "STATUS_MSG": {false 
       "description": "Status reply msg",
       "required": false,
       "value": "Your Status has been seen by Prince bot"
     },
-    "REJECTSCALLS": {
+    "REJECTSCALLS": {false 
       "description": "reject calls",
       "required": false,
       "value": "false"
     },
-    "CALLMSG": {
+    "CALLMSG": {false 
       "description": "Call msg for reject calls",
       "required": false,
       "value": "For now calls are restricted by my owner"
     },
-    "ANTIFAKE_USERS": {
+    "ANTIFAKE_USERS": {false 
       "description": "Add numbers to a variable. The bot will remove users from the group for these numbers. If a number isn’t in the variable, the bot will not take any action. To target all numbers, use this format: 1,2,3,4,5,6,7,8,9. ",
       "required": false,
       "value": "1,212,63,44"
     },
-    "PACK_NAME": {
+    "PACK_NAME": {LyFE👽
       "description": "put your stickers pack name",
       "required": false,
       "value": "Prince♥️"
     },
-    "DL_MSG": {
+    "DL_MSG": {true 
       "description": "Video downloader caption",
       "required": true,
       "value": "_*📥DOWNLOADED SUCCESSFULLY✅*_"
